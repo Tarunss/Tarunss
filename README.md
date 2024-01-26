@@ -3,7 +3,7 @@
 -**I'm currently working on a Food Blog site, written in Go/React.👀** <br>
 -**I want to learn more about LLM's with LangChain, and plan on using it in my next project.**🤖 <br>
 -**Fun Fact: I got into programming because I wanted to cheat in FPS games** (I got caught...)😒 <br>
--**You can contact me through my email: tarunsoha587@gmail.com**
+-**You can contact me through my email: tarunsohal587@gmail.com**
 
 <!--
 **Tarunss/Tarunss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
